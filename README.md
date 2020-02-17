@@ -27,4 +27,4 @@ MIT Licensed. See file LICENSE.
 
 [pytest-vim-compiler]: https://github.com/5long/pytest-vim-compiler
 [vim-dispatch]: https://github.com/tpope/vim-dispatch
-[vim-test]: https://github.com/
+[vim-test]: https://github.com/janko/vim-test
